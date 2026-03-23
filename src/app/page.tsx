@@ -59,7 +59,7 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg",          imageAlt: "Sparkling clean modern kitchen"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg?_wi=1",          imageAlt: "Sparkling clean modern kitchen"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/sensual-woman-lying-bed_23-2147778896.jpg",          imageAlt: "Organized bathroom"},
         {
@@ -90,13 +90,13 @@ export default function LandingPage() {
       features={[
         {
           id: 1,
-          title: "Residential Cleaning",          description: "Keep your home sparkling clean with our regular, deep, or move-in/move-out cleaning options, customized to your schedule.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg",          imageAlt: "Residential cleaning"},
+          title: "Residential Cleaning",          description: "Keep your home sparkling clean with our regular, deep, or move-in/move-out cleaning options, customized to your schedule.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg?_wi=1",          imageAlt: "Residential cleaning"},
         {
           id: 2,
-          title: "Commercial Cleaning",          description: "Ensure a healthy and professional environment for your business with our tailored cleaning plans for offices, retail, and more.",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg",          imageAlt: "Commercial cleaning"},
+          title: "Commercial Cleaning",          description: "Ensure a healthy and professional environment for your business with our tailored cleaning plans for offices, retail, and more.",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg?_wi=1",          imageAlt: "Commercial cleaning"},
         {
           id: 3,
-          title: "Deep Cleaning",          description: "For those times your space needs extra attention, our deep cleaning service tackles every nook and cranny for a truly pristine finish.",          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg",          imageAlt: "Deep cleaning"},
+          title: "Deep Cleaning",          description: "For those times your space needs extra attention, our deep cleaning service tackles every nook and cranny for a truly pristine finish.",          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg?_wi=1",          imageAlt: "Deep cleaning"},
       ]}
       title="Our Professional Cleaning Services"
       description="From routine maintenance to deep cleaning, we offer a wide range of services tailored to meet your specific needs."
@@ -110,13 +110,13 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "1",          name: "Sarah J.",          role: "Homeowner",          testimonial: "Capital Cleaning transformed my home! Their team is thorough, professional, and always leaves my house looking immaculate. Highly recommend!",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg"},
+          id: "1",          name: "Sarah J.",          role: "Homeowner",          testimonial: "Capital Cleaning transformed my home! Their team is thorough, professional, and always leaves my house looking immaculate. Highly recommend!",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg?_wi=1"},
         {
-          id: "2",          name: "Michael T.",          role: "Office Manager",          testimonial: "Our office has never been cleaner. Capital Cleaning provides consistent, high-quality service, and they are very accommodating to our business hours.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg"},
+          id: "2",          name: "Michael T.",          role: "Office Manager",          testimonial: "Our office has never been cleaner. Capital Cleaning provides consistent, high-quality service, and they are very accommodating to our business hours.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg?_wi=1"},
         {
-          id: "3",          name: "Emily R.",          role: "Property Manager",          testimonial: "I've used Capital Cleaning for multiple properties, and they always deliver exceptional results. Their deep cleaning service is unmatched!",          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg"},
+          id: "3",          name: "Emily R.",          role: "Property Manager",          testimonial: "I've used Capital Cleaning for multiple properties, and they always deliver exceptional results. Their deep cleaning service is unmatched!",          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg?_wi=1"},
         {
-          id: "4",          name: "David K.",          role: "Retail Business Owner",          testimonial: "Reliable, efficient, and friendly! Capital Cleaning keeps my store pristine, which makes a huge difference for my customers.",          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg"},
+          id: "4",          name: "David K.",          role: "Retail Business Owner",          testimonial: "Reliable, efficient, and friendly! Capital Cleaning keeps my store pristine, which makes a huge difference for my customers.",          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg?_wi=1"},
       ]}
       title="What Our Clients Say"
       description="Hear from satisfied customers who trust Capital Cleaning for their residential and commercial cleaning needs."
@@ -144,7 +144,7 @@ export default function LandingPage() {
       tag="Contact Us"
       title="Ready for a Spotless Space?"
       description="Get your personalized cleaning quote today! Our team is ready to transform your environment with our professional services."
-      imageSrc="http://img.b2bpic.net/free-photo/offsetting-tape-airport_1127-377.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/offsetting-tape-airport_1127-377.jpg?_wi=1"
       imageAlt="Clean and bright office space"
       mediaAnimation="opacity"
       mediaPosition="right"

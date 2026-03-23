@@ -49,11 +49,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          id: "1",          title: "Residential Cleaning",          description: "Keep your home sparkling with our flexible and thorough residential cleaning packages, designed for your comfort.",          tag: "Homes",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg",          imageAlt: "residential cleaning happy home"},
+          id: "1",          title: "Residential Cleaning",          description: "Keep your home sparkling with our flexible and thorough residential cleaning packages, designed for your comfort.",          tag: "Homes",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg?_wi=2",          imageAlt: "residential cleaning happy home"},
         {
-          id: "2",          title: "Commercial Cleaning",          description: "Maintain a pristine and productive workspace with our professional commercial cleaning solutions for businesses of all sizes.",          tag: "Offices",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg",          imageAlt: "commercial office cleaning team"},
+          id: "2",          title: "Commercial Cleaning",          description: "Maintain a pristine and productive workspace with our professional commercial cleaning solutions for businesses of all sizes.",          tag: "Offices",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg?_wi=2",          imageAlt: "commercial office cleaning team"},
         {
-          id: "3",          title: "Deep Cleaning Services",          description: "For an unparalleled level of clean, our deep cleaning service tackles every nook and cranny, leaving your space immaculate.",          tag: "Specialized",          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg",          imageAlt: "deep cleaning service spotless bathroom"},
+          id: "3",          title: "Deep Cleaning Services",          description: "For an unparalleled level of clean, our deep cleaning service tackles every nook and cranny, leaving your space immaculate.",          tag: "Specialized",          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg?_wi=2",          imageAlt: "deep cleaning service spotless bathroom"},
       ]}
       title="Our Professional Cleaning Services"
       description="Capital Cleaning offers a comprehensive range of services tailored to meet your needs, ensuring every space is impeccably clean and fresh."
@@ -69,16 +69,16 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "1",          name: "Sarah J.",          handle: "@sarah_j",          testimonial: "Capital Cleaning transformed my home! It's never been so clean, and their team is always so professional and friendly.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg",          imageAlt: "Sarah J. photo"},
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg?_wi=2",          imageAlt: "Sarah J. photo"},
         {
           id: "2",          name: "Michael Chen",          handle: "@mchen",          testimonial: "Reliable and efficient commercial cleaning. Our office always looks impeccable, which is great for client impressions.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg",          imageAlt: "Michael Chen photo"},
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg?_wi=2",          imageAlt: "Michael Chen photo"},
         {
           id: "3",          name: "Emily R.",          handle: "@emily.r",          testimonial: "The deep cleaning service was incredible. They paid attention to every detail, and my apartment feels brand new!",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg",          imageAlt: "Emily R. photo"},
+          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg?_wi=2",          imageAlt: "Emily R. photo"},
         {
           id: "4",          name: "David L.",          handle: "@davidl",          testimonial: "Exceptional service from start to finish. Booking was easy, and the results exceeded my expectations. Highly recommend!",          rating: 4,
-          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg",          imageAlt: "David L. photo"},
+          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg?_wi=2",          imageAlt: "David L. photo"},
       ]}
       showRating={true}
       title="What Our Clients Say"
