@@ -7,7 +7,7 @@ import MetricCardFourteen from '@/components/sections/metrics/MetricCardFourteen
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import SplitAbout from '@/components/sections/about/SplitAbout';
 import TeamCardFive from '@/components/sections/team/TeamCardFive';
-import { Users } from "lucide-react";
+import { Users, Leaf, ClipboardCheck } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -28,31 +28,17 @@ export default function LandingPage() {
       <NavbarLayoutFloatingInline
       navItems={[
         {
-          name: "Home",
-          id: "home",
-          href: "/",
-        },
+          name: "Home",          id: "/"},
         {
-          name: "Services",
-          id: "services",
-          href: "/services",
-        },
+          name: "Services",          id: "/services"},
         {
-          name: "About Us",
-          id: "about",
-          href: "/about",
-        },
+          name: "About Us",          id: "/about"},
         {
-          name: "Contact",
-          id: "contact",
-          href: "/contact",
-        },
+          name: "Contact",          id: "/contact"},
       ]}
       brandName="Capital Cleaning"
       button={{
-        text: "Get a Free Quote",
-        href: "/contact",
-      }}
+        text: "Get a Free Quote",        href: "/contact"}}
       animateOnLoad={true}
     />
   </div>
@@ -66,22 +52,16 @@ export default function LandingPage() {
       tag="Our Story"
       bulletPoints={[
         {
-          title: "Experienced Professionals",
-          description: "Our team consists of highly trained and experienced cleaning specialists dedicated to delivering spotless results.",
-          icon: Users,
+          title: "Experienced Professionals",          description: "Our team consists of highly trained and experienced cleaning specialists dedicated to delivering spotless results.",          icon: Users,
         },
         {
-          title: "Eco-Friendly Approach",
-          description: "We prioritize the health of our clients and the planet by using environmentally safe and sustainable cleaning products.",
-          icon: Leaf,
+          title: "Eco-Friendly Approach",          description: "We prioritize the health of our clients and the planet by using environmentally safe and sustainable cleaning products.",          icon: Leaf,
         },
         {
-          title: "Customized Cleaning Plans",
-          description: "Every space is unique, so we offer tailored cleaning solutions that perfectly fit your specific needs and schedule.",
-          icon: ClipboardCheck,
+          title: "Customized Cleaning Plans",          description: "Every space is unique, so we offer tailored cleaning solutions that perfectly fit your specific needs and schedule.",          icon: ClipboardCheck,
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg?_wi=2"
+      imageSrc="http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg"
       imageAlt="Sparkling clean modern kitchen"
       mediaAnimation="slide-up"
     />
@@ -94,26 +74,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       team={[
         {
-          id: "1",
-          name: "Elena Rodriguez",
-          role: "Lead Cleaning Specialist",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg?_wi=3",
-          imageAlt: "Elena Rodriguez",
-        },
+          id: "1",          name: "Elena Rodriguez",          role: "Lead Cleaning Specialist",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg",          imageAlt: "Elena Rodriguez"},
         {
-          id: "2",
-          name: "Marcus Thorne",
-          role: "Operations Manager",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg?_wi=3",
-          imageAlt: "Marcus Thorne",
-        },
+          id: "2",          name: "Marcus Thorne",          role: "Operations Manager",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg",          imageAlt: "Marcus Thorne"},
         {
-          id: "3",
-          name: "Sophia Lee",
-          role: "Client Relations",
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg?_wi=3",
-          imageAlt: "Sophia Lee",
-        },
+          id: "3",          name: "Sophia Lee",          role: "Client Relations",          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg",          imageAlt: "Sophia Lee"},
       ]}
       title="Meet Our Dedicated Team"
       description="Our professional cleaners are thoroughly vetted, highly trained, and passionate about creating pristine environments for our clients."
@@ -127,20 +92,11 @@ export default function LandingPage() {
       tag="Our Impact"
       metrics={[
         {
-          id: "1",
-          value: "10+",
-          description: "Years of experience in professional cleaning services",
-        },
+          id: "1",          value: "10+",          description: "Years of experience in professional cleaning services"},
         {
-          id: "2",
-          value: "98%",
-          description: "Customer satisfaction rate across all services",
-        },
+          id: "2",          value: "98%",          description: "Customer satisfaction rate across all services"},
         {
-          id: "3",
-          value: "500+",
-          description: "Happy homes and offices cleaned monthly",
-        },
+          id: "3",          value: "500+",          description: "Happy homes and offices cleaned monthly"},
       ]}
       metricsAnimation="slide-up"
     />
@@ -150,50 +106,31 @@ export default function LandingPage() {
       <FooterBase
       columns={[
         {
-          title: "Services",
-          items: [
+          title: "Services",          items: [
             {
-              label: "Residential Cleaning",
-              href: "/services",
-            },
+              label: "Residential Cleaning",              href: "/services"},
             {
-              label: "Commercial Cleaning",
-              href: "/services",
-            },
+              label: "Commercial Cleaning",              href: "/services"},
             {
-              label: "Deep Cleaning",
-              href: "/services",
-            },
+              label: "Deep Cleaning",              href: "/services"},
           ],
         },
         {
-          title: "Company",
-          items: [
+          title: "Company",          items: [
             {
-              label: "About Us",
-              href: "/about",
-            },
+              label: "About Us",              href: "/about"},
             {
-              label: "Contact",
-              href: "/contact",
-            },
+              label: "Contact",              href: "/contact"},
             {
-              label: "Careers",
-              href: "#",
-            },
+              label: "Careers",              href: "#"},
           ],
         },
         {
-          title: "Legal",
-          items: [
+          title: "Legal",          items: [
             {
-              label: "Privacy Policy",
-              href: "#",
-            },
+              label: "Privacy Policy",              href: "#"},
             {
-              label: "Terms of Service",
-              href: "#",
-            },
+              label: "Terms of Service",              href: "#"},
           ],
         },
       ]}
