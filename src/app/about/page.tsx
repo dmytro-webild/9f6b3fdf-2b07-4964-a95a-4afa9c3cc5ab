@@ -81,7 +81,7 @@ export default function LandingPage() {
           icon: ClipboardCheck,
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cleaning-products-arrangement-flat-lay_23-2148883455.jpg?_wi=2"
       imageAlt="Sparkling clean modern kitchen"
       mediaAnimation="slide-up"
     />
@@ -97,21 +97,21 @@ export default function LandingPage() {
           id: "1",
           name: "Elena Rodriguez",
           role: "Lead Cleaning Specialist",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg?_wi=3",
           imageAlt: "Elena Rodriguez",
         },
         {
           id: "2",
           name: "Marcus Thorne",
           role: "Operations Manager",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg?_wi=3",
           imageAlt: "Marcus Thorne",
         },
         {
           id: "3",
           name: "Sophia Lee",
           role: "Client Relations",
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg?_wi=3",
           imageAlt: "Sophia Lee",
         },
       ]}

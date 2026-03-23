@@ -67,7 +67,7 @@ export default function LandingPage() {
           title: "Residential Cleaning",
           description: "Keep your home sparkling with our flexible and thorough residential cleaning packages, designed for your comfort.",
           tag: "Homes",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-gardening-indoors_23-2148509861.jpg?_wi=2",
           imageAlt: "residential cleaning happy home",
         },
         {
@@ -75,7 +75,7 @@ export default function LandingPage() {
           title: "Commercial Cleaning",
           description: "Maintain a pristine and productive workspace with our professional commercial cleaning solutions for businesses of all sizes.",
           tag: "Offices",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-female-teacher-disinfecting-school-benches-classroom_23-2148848243.jpg?_wi=2",
           imageAlt: "commercial office cleaning team",
         },
         {
@@ -83,7 +83,7 @@ export default function LandingPage() {
           title: "Deep Cleaning Services",
           description: "For an unparalleled level of clean, our deep cleaning service tackles every nook and cranny, leaving your space immaculate.",
           tag: "Specialized",
-          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/photorealistic-man-doing-house-chores_23-2151733030.jpg?_wi=2",
           imageAlt: "deep cleaning service spotless bathroom",
         },
       ]}
@@ -105,7 +105,7 @@ export default function LandingPage() {
           handle: "@sarah_j",
           testimonial: "Capital Cleaning transformed my home! It's never been so clean, and their team is always so professional and friendly.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-natural-pretty-woman-with-curly-hairstyle_285396-4322.jpg?_wi=2",
           imageAlt: "Sarah J. photo",
         },
         {
@@ -114,7 +114,7 @@ export default function LandingPage() {
           handle: "@mchen",
           testimonial: "Reliable and efficient commercial cleaning. Our office always looks impeccable, which is great for client impressions.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-cheerfully-casually-pointing-copy-space-side-feeling-happy-satisfied_1194-631901.jpg?_wi=2",
           imageAlt: "Michael Chen photo",
         },
         {
@@ -123,7 +123,7 @@ export default function LandingPage() {
           handle: "@emily.r",
           testimonial: "The deep cleaning service was incredible. They paid attention to every detail, and my apartment feels brand new!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-4107.jpg?_wi=2",
           imageAlt: "Emily R. photo",
         },
         {
@@ -132,7 +132,7 @@ export default function LandingPage() {
           handle: "@davidl",
           testimonial: "Exceptional service from start to finish. Booking was easy, and the results exceeded my expectations. Highly recommend!",
           rating: 4,
-          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/handsome-smiling-young-handsome-bearded-wild-curly-hair-man-with-bright-blue-eyes-isolated-white-background-young-thinking-man-green-tshirt-white-background_549566-955.jpg?_wi=2",
           imageAlt: "David L. photo",
         },
       ]}
