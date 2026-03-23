@@ -61,7 +61,7 @@ export default function LandingPage() {
         name: "message",        placeholder: "Your Message",        rows: 5,
         required: true,
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/offsetting-tape-airport_1127-377.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/offsetting-tape-airport_1127-377.jpg?_wi=2"
       imageAlt="Bright and clean office space"
       mediaAnimation="slide-up"
       mediaPosition="right"
